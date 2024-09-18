@@ -1,5 +1,5 @@
 FROM ubuntu
-EXPOSE 80
+EXPOSE 3000
 WORKDIR /app
 USER root
 
